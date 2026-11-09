@@ -1,0 +1,29 @@
+entries:
+  - id: KB-0003
+    title: 返金回答の表現修正
+    body: 返金に関する回答は表現が曖昧なため修正する。
+    date: 2026-10-12
+    source: minutes_2026-10-12_cs.txt
+    speaker: 高橋
+    confidentiality: internal
+  - id: KB-0004
+    title: ログ保存期間
+    body: ログ保存期間は180日で確定。
+    date: 2026-10-19
+    source: ""
+    speaker: 山本
+    confidentiality: internal
+  - id: KB-0005
+    title: 個人情報を含むログの扱い
+    body: 個人情報を含むログは匿名化してから保存する。
+    date: 2026-10-19
+    source: minutes_2026-10-19_legal.txt
+    speaker: 山本
+    confidentiality: 社外秘
+  - id: KB-0006
+    title: 資料の公開範囲
+    body: 社外への公開はしない。社内限定の資料として扱う。
+    date: 2026-10-19
+    source: minutes_2026-10-19_legal.txt
+    speaker: 山本
+    confidentiality: internal

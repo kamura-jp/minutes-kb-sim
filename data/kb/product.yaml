@@ -1,0 +1,22 @@
+entries:
+  - id: KB-0001
+    title: リリース目標日
+    body: 次回リリースの目標日は2026年11月20日。
+    date: 2026-10-05
+    source: minutes_2026-10-05_product.txt
+    speaker: 田中
+    confidentiality: internal
+  - id: KB-0002
+    title: テスト環境の準備期限
+    body: テスト環境の準備は2026年10月30日までに完了する見込み。
+    date: 2026-10-05
+    source: minutes_2026-10-05_product.txt
+    speaker: 佐藤
+    confidentiality: internal
+  - id: KB-0003
+    title: FAQ更新の対象件数
+    body: FAQの更新対象は全部で24件。
+    date: 2026/10/12
+    source: minutes_2026-10-12_cs.txt
+    speaker: 鈴木
+    confidentiality: internal
